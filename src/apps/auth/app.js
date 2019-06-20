@@ -13,7 +13,8 @@ define(function(require) {
 			'de-DE': { customCss: false },
 			'en-US': { customCss: false },
 			'fr-FR': { customCss: false },
-			'ru-RU': { customCss: false }
+			'ru-RU': { customCss: false },
+			'es-ES': { customCss: false }
 		},
 
 		appFlags: {
