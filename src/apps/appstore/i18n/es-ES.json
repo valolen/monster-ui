@@ -1,37 +1,37 @@
 {
-	"description": "Description",
-	"featuresTitle": "Features:",
-	"undefinedFeatures": "Feature list coming soon...",
-	"author": "Author",
-	"version": "Version",
-	"license": "License",
-	"price": "Price",
-	"free": "Free",
-	"save": "Save",
+	"description": "DescripciÛn",
+	"featuresTitle": "Caracteristicas:",
+	"undefinedFeatures": "Vienen pronto nuevas listas de caracterÌsticas...",
+	"author": "Autor",
+	"version": "VersiÛn",
+	"license": "Licencia",
+	"price": "Precio",
+	"free": "Libre",
+	"save": "Salvar",
 	"filters": {
-		"all": "All Apps",
-		"installed": "My Apps",
-		"reseller": "Reseller Apps",
-		"carrier": "Carrier Apps",
-		"developer": "Developer Apps",
-		"endUser": "End User Apps",
-		"reporting": "Reporting Apps",
-		"integration": "Integrations",
-		"admin": "Admin Apps",
-		"systemAdmin": "System Admin Apps"
+		"all": "Todas las Apps",
+		"installed": "Mis Apps",
+		"reseller": "Revendedor Apps",
+		"carrier": "Portador Apps",
+		"developer": "Desarrollador Apps",
+		"endUser": "Usuario final Apps",
+		"reporting": "Reportes Apps",
+		"integration": "Integraciones",
+		"admin": "Administrador Apps",
+		"systemAdmin": "Administrador de sistema Apps"
 	},
 	"permissions": {
-		"title": "Who can use this App?",
-		"all": "All users",
-		"admins": "Admins only",
-		"specific": "Specific users"
+		"title": "øQuiÈn puede usar esta App?",
+		"all": "Todos los usuarios",
+		"admins": "Solo administradores",
+		"specific": "Usarios especÌficos"
 	},
-	"selectedUsers": "Selected Users",
-	"selectAll": "Select All",
-	"unselectAll": "Unselect All",
-	"selectUsersLink": "Selected Users ({{selectedUsers}})",
+	"selectedUsers": "Usuarios seleccionados",
+	"selectAll": "Seleccionar todos",
+	"unselectAll": "Desmarcar todos",
+	"selectUsersLink": "Usuarios seleccionados ({{selectedUsers}})",
 	"alerts": {
-		"noUserSelected": "You must select at least one user for this app.<br><br>If you don't want any user to use this app, you can turn it off."
+		"noUserSelected": "Debe seleccionar al menos un usuario para esta app.<br><br>Si quieres que ning˙n usuario use esta aplicaciÛn, puedes desactivarla."
 	},
 	"__comment": "UI-1190: Updating the way apps are turned on/off",
 	"__version": "v3.20_s2",
@@ -39,5 +39,5 @@
 
 	"__comment": "UI-1190: Updating the way apps are turned on/off",
 	"__version": "v3.20_s2",
-	"appStoreDisabled": "It looks like the App Store has been disabled for this account. Contact your administrator for more information."
+	"appStoreDisabled": "Parece que la Tienda de Apps ha sido deshabilitada para esta cuenta. PÛngase en contacto con su administrador para obtener m·s informaciÛn.."
 }
