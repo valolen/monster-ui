@@ -25,96 +25,96 @@
 		}
 	},
 
-	"hello": "Hello",
-	"signout": "Sign Out",
+	"hello": "Hola",
+	"signout": "Desconectar",
 	"myaccount": "Cuenta",
-	"closeSlide": "Close",
-	"store": "Store",
+	"closeSlide": "Cerrar",
+	"store": "Almacenar",
 
-	"settingsCategory": "Settings",
-	"billingCategory": "Billing",
+	"settingsCategory": "Configuraciones",
+	"billingCategory": "Facturación",
 	"trunkingCategory": "Trunking",
 
-	"editSettings": "Edit",
-	"changesSaved": "Changes Saved!",
+	"editSettings": "Editar",
+	"changesSaved": "¡Cambios guardados!",
 	"placeholderName": "Jon Doe",
 	"placeholderEmail": "jon_doe@company.com",
-	"phoneNumber": "Phone Number",
+	"phoneNumber": "Número de teléfono",
 	"placeholderNumber": "4152223333",
-	"placeholderAddress": "140 Geary St.",
-	"placeholderAddressLineTwo": "3rd Floor",
+	"placeholderAddress": "140 Calle Geary",
+	"placeholderAddressLineTwo": "3er piso",
 	"placeholderCity": "San Francisco",
 	"placeholderState": "California",
-	"placeholderCountry": "United States",
+	"placeholderCountry": "Estados Unidos",
 	"placeholderZipCode": "12345",
 
 	"walkthrough": {
 		"greetingsDialog": {
-			"go": "Let's get started",
-			"content": "The step-by-step wizard will help familiarize you with your account settings so that you can begin setting up your business phone system. Your essential account information has been entered during registration.",
-			"title": "Welcome to the platform"
+			"go": "Empecemos",
+			"content": "TEl asistente paso a paso lo ayudará a familiarizarse con la configuración de su cuenta para que pueda comenzar a configurar el sistema telefónico de su empresa. La información esencial de su cuenta se ingresó durante el registro.",
+			"title": "Bienvenido a la plataforma."
 		},
 		"steps": {
-			"1": "Access your Account Settings by clicking on your name.",
-			"2": "Your Admin User settings can be viewed in the User tab. Individual settings such as Timezone, Language and Date & Time can be changed based on your preferences.",
-			"3": "Your Admin Account settings can be viewed in the Account tab. Here you can add a Technical Contact if you wish, and set Timezone & Language for the entire account.",
-			"4": "If you would like to update or change your credit card, please do so here. Please note that the credit card that you used during registration is currently on file in this tab.",
-			"5": "If you need/plan to make international calls, you will need to set up per-minute credits here.",
-			"6": "Review your current service plan and associated charges",
-			"7": "View all transactions made under your account, including all one-time fees and charges"
+			"1": "Acceda a la configuración de su cuenta haciendo clic en su nombre.",
+			"2": "La configuración del usuario administrador se puede ver en la pestaña Usuario. Las configuraciones individuales como la zona horaria, el idioma y la fecha y hora se pueden cambiar según sus preferencias.",
+			"3": "La configuración de su cuenta de administrador se puede ver en la pestaña Cuenta. Aquí puede agregar un contacto técnico si lo desea, y configurar la zona horaria y el idioma para toda la cuenta.",
+			"4": "Si desea actualizar o cambiar su tarjeta de crédito, hágalo aquí. Tenga en cuenta que la tarjeta de crédito que utilizó durante el registro está actualmente archivada en esta pestaña.",
+			"5": "Si necesita / planea hacer llamadas internacionales, deberá configurar créditos por minuto aquí.",
+			"6": "Revise su plan de servicio actual y los cargos asociados.",
+			"7": "Ver todas las transacciones realizadas en su cuenta, incluidas todas las tarifas y cargos únicos"
 
 		},
 		"endDialog": {
-			"roger": "Roger that",
-			"content": "Now that you're familiarized with the different settings, you can take a few moments to change or update any of the information to fit your needs. When you're ready to begin setting up your phone system, close out of these settings by clicking the close button in the upper right or by simply clicking on your name again.",
-			"title": "Done!"
+			"roger": "Entendido",
+			"content": "Ahora que está familiarizado con las diferentes configuraciones, puede tomarse unos minutos para cambiar o actualizar cualquier información que se ajuste a sus necesidades. Cuando esté listo para comenzar a configurar su sistema telefónico, cierre estas configuraciones haciendo clic en el botón Cerrar en la esquina superior derecha o simplemente haciendo clic en su nombre nuevamente.",
+			"title": "¡Hecho!"
 		}
 	},
 
 	"user": {
-		"title": "User",
-		"passwordsNotMatching": "The passwords you typed don't match",
+		"title": "Usuario",
+		"passwordsNotMatching": "Las contraseñas que escribiste no coinciden",
 
 		"email": "Email",
 
-		"password": "Password",
-		"newPassword": "New Password",
-		"confirmPassword": "Confirm New Password",
+		"password": "Contraseña",
+		"newPassword": "Nueva contraseña",
+		"confirmPassword": "Confirmar nueva contraseña",
 
-		"timezoneTitle": "Timezone & Language",
-		"userTimezone": "Timezone",
-		"userLanguage": "Language",
+		"timezoneTitle": "Zona horaria e idioma",
+		"userTimezone": "Zona horaria",
+		"userLanguage": "Idioma",
 
-		"colorblindTitle": "Colorblind Mode",
-		"colorblindEnabled": "Enabled",
-		"colorblindDisabled": "Disabled",
-		"enableColorblind": "Enable Colorblind Mode",
+		"colorblindTitle": "Modo daltónico",
+		"colorblindEnabled": "Habilitado",
+		"colorblindDisabled": "Deshabilitado",
+		"enableColorblind": "Habilitar el modo daltónico",
 
-		"__comment": "UI-1335: Adding hours settings to the user settings",
+		"__comment": "UI-1335: Agregar configuraciones de horas a la configuración del usuario",
 		"__version": "v3.20_s3",
-		"dateTimeTitle": "Date and Time Display",
-		"twelveHoursModeEnabled": "12 Hours Mode (AM/PM)",
-		"twelveHoursModeDisabled": "24 Hours Mode",
-		"enableTwelveHoursMode": "Time in 12 Hours Mode (AM/PM)",
-		"dateFormatTitle": "Date format",
+		"dateTimeTitle": "Visualización de fecha y hora",
+		"twelveHoursModeEnabled": "Modo de 12 horas (AM / PM)",
+		"twelveHoursModeDisabled": "Modo de 24 horas",
+		"enableTwelveHoursMode": "Tiempo en modo de 12 horas (AM / PM)",
+		"dateFormatTitle": "Formato de fecha",
 		"dateFormats": {
-			"dmy": "Day/Month/Year",
-			"mdy": "Month/Day/Year",
-			"ymd": "Year/Month/Day"
+			"dmy": "Día/mes/año",
+			"mdy": "Mes/día/año",
+			"ymd": "Año/mes/dia "
 		}
 	},
 
 	"account": {
 		"title": "Cuenta",
 
-		"accountName": "Account Name",
-		"accountId": "Account ID",
+		"accountName": "Nombre de la cuenta",
+		"accountId": "ID de la cuenta",
 
-		"accountRealm": "Account Realm",
+		"accountRealm": "Dominio de cuenta",
 
-		"technicalContact": "Technical Contact",
-		"technicalContactEmail": "Technical Contact Email",
-		"technicalContactNumber": "Phone Number",
+		"technicalContact": "Contacto técnico",
+		"technicalContactEmail": "Correo electrónico de contacto técnico",
+		"technicalContactNumber": "Número de teléfono",
 
 		"accessListTitle": "Access List",
 		"newCidr": "Add a new CIDR",
