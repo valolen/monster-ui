@@ -72,18 +72,18 @@
 		}
 	},
 	"apps": "Apps",
-	"add": "Add",
-	"alertLogout": "Your current session is expiring and you're about to be logged off due to inactivity. Please move your cursor if you want to remain logged in.",
-	"cancel": "Cancel",
-	"change": "Change",
+	"add": "Añadir",
+	"alertLogout": "Su sesión actual está caducando y está a punto de cerrar la sesión debido a la inactividad. Mueva el cursor si desea permanecer conectado.",
+	"cancel": "Cancelar",
+	"change": "Cambiar",
 	"chargeReminder" : {
 		"line1": "Your on-file credit card will immediately be charged for any changes you make. If you have changed any recurring services, new charges will be pro-rated for your billing cycle.",
 		"line2": "Are you sure you want to continue?"
 	},
-	"close" : "Close",
+	"close" : "Cerrar",
 	"conferencingLogo": "Conferencing",
 	"csv": "CSV",
-	"delete": "Delete",
+	"delete": "Eliminar",
 	"dialog" : {
 		"showError": "Show Error",
 		"confirm": "Confirm",
@@ -107,34 +107,34 @@
 	"show": "Show",
 	"hide": "Hide",
 	"paging": {
-		"first": "First",
-		"previous": "Previous",
-		"next": "Next",
-		"last": "Last"
+		"first": "Primero",
+		"previous": "Anterior",
+		"next": "Siguiente",
+		"last": "Último"
 	},
 	"pdf": "PDF",
-	"previous": "Previous",
-	"remove": "Remove",
-	"save": "Save",
-	"saveChanges": "Save Changes",
-	"search": "Search...",
-	"select": "Select",
-	"startDate": "Start:",
-	"submit": "Submit",
+	"previous": "Anterior",
+	"remove": "Remover",
+	"save": "Guardar",
+	"saveChanges": "Guardar cambios",
+	"search": "Buscar...",
+	"select": "Seleccionar",
+	"startDate": "Fecha de inicio:",
+	"submit": "Enviar",
 	"table" : {
-		"search": "Search...",
-		"empty" : "No data available in table",
+		"search": "Buscar...",
+		"empty" : "No hay datos disponibles en la tabla",
 		"processing" : "Processing...",
 		"showEntries": "Show _MENU_ entries",
 		"startEndTotal": "Showing _START_ to _END_ of _TOTAL_ entries",
-		"zeroRecords": "No matching records found",
-		"loading": "Loading...",
+		"zeroRecords": "No se encontraron registros coincidentes",
+		"loading": "Cargando...",
 		"filtered": "(filtered from _MAX_ total entries)",
 		"infoEmpty": ""
 	},
 	"unexpectedError": "An unexpected error happened, please try again!",
-	"update": "Update",
-	"upload": "Upload",
+	"update": "Actualizar",
+	"upload": "Subir",
 	"userFullName": "{{firstName}} {{lastName}}",
 	"validation": {
 		"defaultRules": {
@@ -171,9 +171,9 @@
 			"__version": "v4.1",
 			"protocol": "Please include the \"://\" characters."
 		},
-		"required": "Required."
+		"required": "Requerido."
 	},
-	"warning": "Warning!",
+	"warning": "¡Precaución!",
 	"confirmCharges": {
 		"title": "Charges Confirmation",
 		"oneTimeFee": "One-time fee",
@@ -328,11 +328,11 @@
 	},
 	"__comment": "UI-1014: Redesign of MyAccount",
 	"__version": "v3.20_s0",
-	"refresh": "Refresh",
+	"refresh": "Refrescar",
 
 	"__comment": "UI-1177: Say Un-assign instead of remove in Main Number",
 	"__version": "v3.20_s2",
-	"unassign": "Un-assign",
+	"unassign": "Desasignar",
 
 	"__comment": "UI-1074: New Error Popup",
 	"__version": "v3.20_s2",
@@ -561,10 +561,10 @@
 	"__comment": "UI-1421: Adding walkthrough to Monster",
 	"__version": "3.21",
 	"stepByStep": {
-		"nextLabel": "Next",
-		"prevLabel": "Back",
-		"skipLabel": "Skip",
-		"doneLabel": "Done"
+		"nextLabel": "Siguiente",
+		"prevLabel": "Atrás",
+		"skipLabel": "Omitir",
+		"doneLabel": "Hecho"
 	},
 
 	"__comment": "UI-1772: Add internationalization support for the jQuery timepicker plugin",
@@ -597,11 +597,11 @@
 	"__comment": "UI-1779: Adding account toggle",
 	"__version": "3.22",
 	"accountToggle": {
-		"currentAccountLabel": "Browsing",
+		"currentAccountLabel": "Buscando",
 		"toggleTooltip": "Account Jump",
 		"__comment": "UI-2092: adding search-related labels",
 		"__version": "3.22",
-		"breadcrumbSearchResults": "search results for \"{{variable}}\""
+		"breadcrumbSearchResults": "Resultados de búsqueda para \"{{variable}}\""
 	},
 	"triggerMasquerading": "You are now masquerading the account \"{{accountName}}\".",
 	"restoreMasquerading": "You are not masquerading anymore.",
@@ -705,7 +705,7 @@
 	"__comment": "UI-2232: Adding layer around footable so we can reuse same options everywhere easily",
 	"__version": "3.22",
 	"footable": {
-		"search": "Search",
+		"search": "Buscar",
 		"format": "{PF}-{PL} of {TR}"
 	},
 
