@@ -45,6 +45,6 @@
     "semver": "^5.7.0",
     "upath": "^1.1.2",
     "vinyl-paths": "^2.1.0",
-    "yargs-parser": "^10.1.0"
+    "yargs-parser": "^13.1.2"
   }
 }
